@@ -6,3 +6,5 @@ a tinder-like project for dogs
 * HTML
 * CSS
 * Bootstrap
+
+https://adelinegayle.github.io/tindog/
